@@ -2,3 +2,4 @@ streamlit
 requests
 pydantic
 pyvis
+pydantic[email]
